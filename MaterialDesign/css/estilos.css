@@ -1,0 +1,48 @@
+#ind1{
+  padding: 1px;
+
+width: 130px;
+
+}
+
+
+#inft{
+  width: 100%;
+  padding: 10px;
+}
+.col{
+  border: 0px solid black;
+
+}
+#Fot1{
+    width: 200px;
+  border-radius: 100px;
+  padding: 10px;
+}
+#centr{
+text-align: center;
+
+}
+#facebook{
+  width: 50px;
+  border-radius: 10px;
+right:
+}
+#twitter{
+  width: 50px;
+  border-radius: 10px;
+}
+#Instagram{
+  width: 50px;
+}
+#WhatsApp{
+  width: 50px;
+}
+#youtube{
+  width: 50px;
+}
+
+#foto1{
+  border: 1px solid #0277bd;
+  border-radius: 10px;
+}

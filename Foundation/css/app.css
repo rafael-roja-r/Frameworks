@@ -1,0 +1,37 @@
+div{
+  border: 0px solid black;
+  padding: 4px;
+  color: #47474c;
+}
+#Uno{
+  width: 40%;
+  text-align: center;
+}
+
+.row{
+  background-color: #efefef ;
+}
+
+body{
+  margin-top: auto;
+background-image:url("../img/fondo.jpg");
+}
+
+
+#nos{
+  border-radius: 4px;
+  border: 1px solid #dbdcde;
+  box-shadow: 1px 1px 2px 0px #dbdcde;
+}
+#dos{
+  width: 100%;
+}
+
+#perr{
+  border-radius: 4px;
+  border: 1px solid #dbdcde;
+}
+#comi{
+  border-radius: 10px;
+  border: 1px solid #dbdcde;
+}
